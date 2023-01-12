@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "ES3"
+    },
+    "exclude": ["node_modules"],
+    "include": ["src"]
+}
